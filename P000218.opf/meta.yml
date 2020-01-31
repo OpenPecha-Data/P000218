@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: བྱང་ཆུབ་ལམ་སྒྲོན་།
+  authors:
+  - མཛད་པ་པོ། ༧རྒྱལ་ཚབ་གྲགས་པ་དོན་གྲུབ་དང་། འཇམ་མགོན་བློ་གྲོས་མཐའ་ཡས།
+  sku: VVI-019
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Commentary on the Middle Way, Volume 1
+    bo: ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོ་དང་ཟབ་པོ་ནྭ་རོའི་ཆོས་དྲུག་གི་སྐོར།
+  collection:
+    en: Vajra Vidya Institute Library–  Book 19
+    bo: ''
+  author:
+    en: Gyaltsap Drakpa Dondup,Jamgon Kongtrul Lodro Thaye
+    bo: ''
+  pusblisher:
+    en: Vajra Vidya Institute
+    bo: ''
+  sku: VVI-019
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: VVI-019.epub
+  description:
+    en: ''
+    bo: ''
