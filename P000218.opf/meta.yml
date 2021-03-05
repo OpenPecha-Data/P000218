@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000218
+initial_creation_type: ebook
+source_metadata:
   title: བྱང་ཆུབ་ལམ་སྒྲོན་།
   authors:
   - མཛད་པ་པོ། ༧རྒྱལ་ཚབ་གྲགས་པ་དོན་གྲུབ་དང་། འཇམ་མགོན་བློ་གྲོས་མཐའ་ཡས།
-  sku: VVI-019
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: VVI-019
 web_metadata:
   title:
     en: A Commentary on the Middle Way, Volume 1
